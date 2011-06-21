@@ -17,5 +17,5 @@ This requires integration between your web framework and ``fanstatic``,
 and making sure that the original resources (shipped in the ``resources``
 directory in ``js.jqueryui_selectmenu``) are published to some URL.
 
-The provided jqgrid code is licenced under MIT and GPL, the integration code
+The provided selectmenu code is licenced under MIT and GPL, the integration code
 uses a BSD Licence.
